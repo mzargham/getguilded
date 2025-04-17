@@ -36,7 +36,7 @@ This model creates an environment where positive externalities — like beauty, 
 
 ## Goals of This Repo
 
-This repository contains a simple **Python simulation notebook** of the guild structure, using basic data structures and logic to show how:
+This repository will (eventually) contain a simple **Python simulation notebook** of the guild structure, using basic data structures and logic to show how:
 
 - Membership and weights are managed
 - Value contributions evolve over time
